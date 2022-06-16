@@ -1,0 +1,12 @@
+AUTOMOBILI
+
+tipologia VARCHAR(15) NULL
+marca VARCHAR(15) NOTNULL
+modello VARCHAR(15) NOTNULL
+prezzo DECIMAL(9, 2) NOTNULL
+chilometraggio INT NULL
+colore VARCHAR(10) NULL
+anno YEAR NULL
+alimentazione VARCHAR(10) NULL
+cambio VARCHAR(10) NULL
+porte TINYINT NULL
